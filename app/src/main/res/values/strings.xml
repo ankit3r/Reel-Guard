@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">ReelGuard</string>
+    <string name="accessibility_service_label">ReelGuard Reel Counter</string>
+    <string name="accessibility_service_description">ReelGuard needs this permission to count how many reels and shorts you watch by detecting scroll events in social media apps. Your data is not collected or stored online.</string>
+</resources>
