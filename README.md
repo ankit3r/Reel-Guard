@@ -2,9 +2,16 @@
 
 ReelGuard is an Android digital wellbeing app that helps limit short-form content consumption by tracking and restricting Instagram Reels, YouTube Shorts, and TikTok sessions, while allowing normal videos and feeds to remain accessible.
 
+## 📥 Download
+
+**[Download ReelGuard APK](https://drive.google.com/file/d/137lrovF-bvntP8K1l0HsS-XbvA2teyRF/view?usp=drive_link)**
+
+> Download and install the latest version directly on your Android device (Android 8.0+)
+
 ## Demo
 
 **[📹 Watch Demo Video](https://drive.google.com/file/d/16qYMnXUR42R7ZabpfvfgMUqyVDH4r8CH/view?usp=drive_link)**
+
 
 ## Features
 
@@ -108,6 +115,13 @@ All permissions are requested transparently with in‑app guidance.
 
 ## Setup & Installation
 
+### Option 1: Install APK
+1. **[Download ReelGuard APK](https://drive.google.com/file/d/137lrovF-bvntP8K1l0HsS-XbvA2teyRF/view?usp=drive_link)**
+2. Enable "Install from Unknown Sources" in your device settings
+3. Open the downloaded APK and install
+4. Follow the on-screen setup instructions
+
+### Option 2: Build from Source
 1. Clone the repository:
    ```bash
    git clone https://github.com/ankit3r/Reel-Guard.git
