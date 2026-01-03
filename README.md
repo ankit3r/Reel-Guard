@@ -2,6 +2,10 @@
 
 ReelGuard is an Android digital wellbeing app that helps limit short-form content consumption by tracking and restricting Instagram Reels, YouTube Shorts, and TikTok sessions, while allowing normal videos and feeds to remain accessible.
 
+## Demo
+
+**[📹 Watch Demo Video](https://drive.google.com/file/d/16qYMnXUR42R7ZabpfvfgMUqyVDH4r8CH/view?usp=drive_link)**
+
 ## Features
 
 - **Reel/Shorts detection only**
@@ -14,7 +18,7 @@ ReelGuard is an Android digital wellbeing app that helps limit short-form conten
 
 - **Real-time usage stats**
   - Circular progress view showing reels watched vs daily limit.
-  - “Reels remaining” and “Total reels today” cards updated in near real-time.
+  - "Reels remaining" and "Total reels today" cards updated in near real-time.
   - Persistent notification showing current reel count.
 
 - **Secure access**
@@ -96,7 +100,7 @@ ReelGuard requires several elevated permissions to work correctly:
 
 - **Usage Access** – to monitor app usage.
 - **Accessibility Service** – to detect Reels/Shorts screens and scroll events.
-- **Draw over other apps** – for block screens, depending on implementation.
+- **Draw over other apps** – for block screens.
 - **Post Notifications** – for the persistent usage notification.
 - **Device Admin** (optional) – to prevent easy uninstallation.
 
@@ -106,4 +110,4 @@ All permissions are requested transparently with in‑app guidance.
 
 1. Clone the repository:
    ```bash
-   https://github.com/ankit3r/Reel-Guard
+   git clone https://github.com/ankit3r/Reel-Guard.git
